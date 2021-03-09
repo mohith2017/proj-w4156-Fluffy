@@ -1,7 +1,8 @@
-# RottenPotatoes demo app: getting started
+# Team
 
-This app is associated with the free [online
-course](http://www.saas-class.org) and (non-free)
-[ebook](http://www.saasbook.info) Engineering Software as a Service.
+Mohith Manohar -  mm5874
+Yuanming Wang  -  yw3472
+Chenghan Wen   -  cw3330
+ Shengkai li   -  sl4685
 
-To start working on the Rails Intro homework, please follow [the instructions](instructions/README.md).
+Project Fluffy - As part of w4156 Adv Software Engineering SaaS app.
